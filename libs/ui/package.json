@@ -1,0 +1,9 @@
+{
+  "name": "@app/ui",
+  "i18n": [
+    {
+      "scope": "ui",
+      "path": "src/lib/i18n"
+    }
+  ]
+}

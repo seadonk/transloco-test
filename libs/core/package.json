@@ -1,0 +1,9 @@
+{
+  "name": "@app/core",
+  "i18n": [
+    {
+      "scope": "core",
+      "path": "src/lib/i18n"
+    }
+  ]
+}

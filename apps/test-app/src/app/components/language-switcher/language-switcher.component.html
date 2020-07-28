@@ -1,0 +1,4 @@
+<label>Active Language: </label>
+<select [value]="selectedLang" (change)="onLangChange($event.target.value)">
+  <option *ngFor="let lang of availableLangs" [value]="lang">{{lang}}</option>
+</select>
